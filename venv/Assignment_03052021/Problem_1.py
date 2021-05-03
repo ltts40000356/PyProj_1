@@ -1,3 +1,4 @@
+# Replacing repeating occurances of the first Character of a String with $
 sampleStr = input("Enter a String:") #Input from the user
 firstChar = sampleStr[0] #Extracting the first character
 print("Your Input:" + sampleStr)
